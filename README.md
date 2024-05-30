@@ -1,6 +1,6 @@
 ## EaglerXBungee Memory Leak Patch
 
-### The latest version of the plugin is EaglerXBungee 1.2.2
+### The latest version of the plugin is EaglerXBungee 1.2.3
 
 **This file does not contain any copyrighted code or registered trademarks of Mojang AB and Microsoft**
 
